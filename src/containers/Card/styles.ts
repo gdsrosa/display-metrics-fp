@@ -7,11 +7,20 @@ export const StyledCardContainer = styled.div`
   gap: 10px;
   margin-top: 2rem;
   margin-bottom: 1rem;
+
+  @media (min-width: 375px) and (max-width: 430px) {
+    display: flex;
+    flex-direction: column;
+  }
 `;
 
 export const StyledParagraph = styled.p`
   font-size: 16px;
   margin-top: 0.4rem;
+
+  @media (min-width: 375px) and (max-width: 430px) {
+    font-size: 14px;
+  }
 `;
 
 export const StyledSpan = styled.span<{
@@ -24,4 +33,8 @@ export const StyledSpan = styled.span<{
       : Colors.green};
   font-weight: bold;
   font-size: 22px;
+
+  @media (min-width: 375px) and (max-width: 430px) {
+    font-size: 20px;
+  }
 `;

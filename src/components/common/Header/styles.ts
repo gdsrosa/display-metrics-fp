@@ -7,5 +7,5 @@ export const StyledHeader = styled.div`
   color: ${Colors.offWhite};
   font-size: 20px;
   padding: 0.75rem;
-  width: 100%;
+  width: auto;
 `;
