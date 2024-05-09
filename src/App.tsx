@@ -9,6 +9,7 @@ import Error from '@/components/common/Error';
 import TableContainer from '@/containers/Table';
 import CardContainer from '@/containers/Card';
 import ChartsContainer from '@/containers/Charts';
+import WarningContainer from '@/containers/Warning';
 
 import { ChartsProvider } from '@/context/ChartContext';
 
@@ -18,6 +19,7 @@ function App() {
       <ChartsProvider>
         <Grid>
           <Header />
+          <WarningContainer />
           <Container>
             <CardContainer />
             <ChartsContainer />
