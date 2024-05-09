@@ -1,8 +1,31 @@
+import { ErrorBoundary } from 'react-error-boundary';
+
+import Grid from '@/components/layout/Grid';
+import Container from '@/components/layout/Container';
+
+import Header from '@/components/common/Header';
+import Error from '@/components/common/Error';
+
+import TableContainer from '@/containers/Table';
+import CardContainer from '@/containers/Card';
+import ChartsContainer from '@/containers/Charts';
+
+import { ChartsProvider } from '@/context/ChartContext';
+
 function App() {
   return (
-    <div>
-      <h1>Factory Pal Challenge</h1>
-    </div>
+    <ErrorBoundary fallback={<Error />}>
+      <ChartsProvider>
+        <Grid>
+          <Header />
+          <Container>
+            <CardContainer />
+            <ChartsContainer />
+            <TableContainer />
+          </Container>
+        </Grid>
+      </ChartsProvider>
+    </ErrorBoundary>
   );
 }
 
