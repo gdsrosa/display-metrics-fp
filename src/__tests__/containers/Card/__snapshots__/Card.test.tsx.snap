@@ -1,0 +1,310 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Card Container > should render cards properly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-hLseSp kKMqmD"
+      >
+        <div
+          class="sc-beqWNU colhZj"
+          data-testid="card"
+        >
+          <h3
+            class="sc-dmqGRC gvzgIr"
+          >
+            Efficiency
+          </h3>
+          <div
+            class="sc-gueXAH krMJNw"
+          >
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Oee
+              <br />
+              <span
+                class="sc-jTrOVX ektjaj"
+              >
+                68%
+              </span>
+            </p>
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Speed loss
+              <br />
+              <span
+                class="sc-jTrOVX iImmsf"
+              >
+                -10.5
+              </span>
+            </p>
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Loss before pallets
+              <br />
+              <span
+                class="sc-jTrOVX iImmsf"
+              >
+                -268
+              </span>
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-beqWNU colhZj"
+          data-testid="card"
+        >
+          <h3
+            class="sc-dmqGRC gvzgIr"
+          >
+            Downtime
+          </h3>
+          <div
+            class="sc-gueXAH krMJNw"
+          >
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Unexplained downtime
+              <br />
+              <span
+                class="sc-jTrOVX iImmsf"
+              >
+                3 minutes
+              </span>
+            </p>
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Mechanical problems
+              <br />
+              <span
+                class="sc-jTrOVX iImmsf"
+              >
+                20 minutes
+              </span>
+            </p>
+          </div>
+        </div>
+        <div
+          class="sc-beqWNU colhZj"
+          data-testid="card"
+        >
+          <h3
+            class="sc-dmqGRC gvzgIr"
+          >
+            Shift
+          </h3>
+          <div
+            class="sc-gueXAH krMJNw"
+          >
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Cleaning in shift
+              <br />
+              <span
+                class="sc-jTrOVX ektjaj"
+              >
+                38 minutes
+              </span>
+            </p>
+            <p
+              class="sc-eDDOjk keRhgZ"
+            >
+              Shift duration
+              <br />
+              <span
+                class="sc-jTrOVX ektjaj"
+              >
+                8 hours
+              </span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-hLseSp kKMqmD"
+    >
+      <div
+        class="sc-beqWNU colhZj"
+        data-testid="card"
+      >
+        <h3
+          class="sc-dmqGRC gvzgIr"
+        >
+          Efficiency
+        </h3>
+        <div
+          class="sc-gueXAH krMJNw"
+        >
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Oee
+            <br />
+            <span
+              class="sc-jTrOVX ektjaj"
+            >
+              68%
+            </span>
+          </p>
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Speed loss
+            <br />
+            <span
+              class="sc-jTrOVX iImmsf"
+            >
+              -10.5
+            </span>
+          </p>
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Loss before pallets
+            <br />
+            <span
+              class="sc-jTrOVX iImmsf"
+            >
+              -268
+            </span>
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-beqWNU colhZj"
+        data-testid="card"
+      >
+        <h3
+          class="sc-dmqGRC gvzgIr"
+        >
+          Downtime
+        </h3>
+        <div
+          class="sc-gueXAH krMJNw"
+        >
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Unexplained downtime
+            <br />
+            <span
+              class="sc-jTrOVX iImmsf"
+            >
+              3 minutes
+            </span>
+          </p>
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Mechanical problems
+            <br />
+            <span
+              class="sc-jTrOVX iImmsf"
+            >
+              20 minutes
+            </span>
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-beqWNU colhZj"
+        data-testid="card"
+      >
+        <h3
+          class="sc-dmqGRC gvzgIr"
+        >
+          Shift
+        </h3>
+        <div
+          class="sc-gueXAH krMJNw"
+        >
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Cleaning in shift
+            <br />
+            <span
+              class="sc-jTrOVX ektjaj"
+            >
+              38 minutes
+            </span>
+          </p>
+          <p
+            class="sc-eDDOjk keRhgZ"
+          >
+            Shift duration
+            <br />
+            <span
+              class="sc-jTrOVX ektjaj"
+            >
+              8 hours
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

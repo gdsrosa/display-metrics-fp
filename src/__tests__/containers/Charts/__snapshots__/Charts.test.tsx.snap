@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Charts Container > should render charts with data that is passed 1`] = `
+<div>
+  <div
+    class="sc-beqWNU colhZj"
+    data-testid="card"
+  >
+    <h3
+      class="sc-dmqGRC gvzgIr"
+    />
+    <div
+      class="sc-gueXAH krMJNw"
+    >
+      <div
+        class="sc-hLseSp ilMZGS"
+        data-testid="charts"
+      />
+    </div>
+  </div>
+</div>
+`;

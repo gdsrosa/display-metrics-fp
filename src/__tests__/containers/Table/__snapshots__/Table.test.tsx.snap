@@ -1,0 +1,684 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Table Container > should render table with data that is passed 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        data-testid="table"
+      >
+        <table
+          class="sc-beqWNU iZtAyf"
+        >
+          <thead
+            class="sc-gueXAH dzrjdU"
+          >
+            <tr>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  ID
+                </p>
+              </th>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  Label
+                </p>
+              </th>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  Description
+                </p>
+              </th>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  Value
+                </p>
+              </th>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  Type
+                </p>
+              </th>
+              <th
+                class="sc-dmqGRC bUUbJH"
+              >
+                <p>
+                  Category
+                </p>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  oee
+                </span>
+              </td>
+              <td>
+                <p>
+                  Oee
+                </p>
+              </td>
+              <td>
+                <span>
+                  The overall equipment efficiency in %
+                </span>
+              </td>
+              <td>
+                <span>
+                  0.68
+                </span>
+              </td>
+              <td>
+                <span>
+                  percentage
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk jswBAS"
+                >
+                  efficiency
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  sl
+                </span>
+              </td>
+              <td>
+                <p>
+                  Speed loss
+                </p>
+              </td>
+              <td>
+                <span>
+                  The line speed loss
+                </span>
+              </td>
+              <td>
+                <span>
+                  -10.5
+                </span>
+              </td>
+              <td>
+                <span>
+                  number
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk jswBAS"
+                >
+                  efficiency
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  lbp
+                </span>
+              </td>
+              <td>
+                <p>
+                  Loss before pallets
+                </p>
+              </td>
+              <td>
+                <span>
+                  Loss of produced goods before reaching the palletizer
+                </span>
+              </td>
+              <td>
+                <span>
+                  -268
+                </span>
+              </td>
+              <td>
+                <span>
+                  number
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk jswBAS"
+                >
+                  efficiency
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  cln_shift
+                </span>
+              </td>
+              <td>
+                <p>
+                  Cleaning in shift
+                </p>
+              </td>
+              <td>
+                <span>
+                  Time spent (in seconds) cleaning the machines during the last shift
+                </span>
+              </td>
+              <td>
+                <span>
+                  2280
+                </span>
+              </td>
+              <td>
+                <span>
+                  secs
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk CeRIr"
+                >
+                  shift
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  shift_duration
+                </span>
+              </td>
+              <td>
+                <p>
+                  Shift duration
+                </p>
+              </td>
+              <td>
+                <span>
+                  Last shift duration in hours
+                </span>
+              </td>
+              <td>
+                <span>
+                  8
+                </span>
+              </td>
+              <td>
+                <span>
+                  hours
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk CeRIr"
+                >
+                  shift
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  unexplained
+                </span>
+              </td>
+              <td>
+                <p>
+                  Unexplained downtime
+                </p>
+              </td>
+              <td>
+                <span>
+                  The downtime (in seconds) caused by undocumented reasons
+                </span>
+              </td>
+              <td>
+                <span>
+                  180
+                </span>
+              </td>
+              <td>
+                <span>
+                  secs
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk cYzARD"
+                >
+                  downtime
+                </p>
+              </td>
+            </tr>
+            <tr
+              class="sc-hLseSp eKehDT"
+            >
+              <td>
+                <span>
+                  mech_problems
+                </span>
+              </td>
+              <td>
+                <p>
+                  Mechanical problems
+                </p>
+              </td>
+              <td>
+                <span>
+                  The downtime (in seconds) caused by mechanical problems
+                </span>
+              </td>
+              <td>
+                <span>
+                  1210
+                </span>
+              </td>
+              <td>
+                <span>
+                  secs
+                </span>
+              </td>
+              <td>
+                <p
+                  class="sc-eDDOjk cYzARD"
+                >
+                  downtime
+                </p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      data-testid="table"
+    >
+      <table
+        class="sc-beqWNU iZtAyf"
+      >
+        <thead
+          class="sc-gueXAH dzrjdU"
+        >
+          <tr>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                ID
+              </p>
+            </th>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                Label
+              </p>
+            </th>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                Description
+              </p>
+            </th>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                Value
+              </p>
+            </th>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                Type
+              </p>
+            </th>
+            <th
+              class="sc-dmqGRC bUUbJH"
+            >
+              <p>
+                Category
+              </p>
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                oee
+              </span>
+            </td>
+            <td>
+              <p>
+                Oee
+              </p>
+            </td>
+            <td>
+              <span>
+                The overall equipment efficiency in %
+              </span>
+            </td>
+            <td>
+              <span>
+                0.68
+              </span>
+            </td>
+            <td>
+              <span>
+                percentage
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk jswBAS"
+              >
+                efficiency
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                sl
+              </span>
+            </td>
+            <td>
+              <p>
+                Speed loss
+              </p>
+            </td>
+            <td>
+              <span>
+                The line speed loss
+              </span>
+            </td>
+            <td>
+              <span>
+                -10.5
+              </span>
+            </td>
+            <td>
+              <span>
+                number
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk jswBAS"
+              >
+                efficiency
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                lbp
+              </span>
+            </td>
+            <td>
+              <p>
+                Loss before pallets
+              </p>
+            </td>
+            <td>
+              <span>
+                Loss of produced goods before reaching the palletizer
+              </span>
+            </td>
+            <td>
+              <span>
+                -268
+              </span>
+            </td>
+            <td>
+              <span>
+                number
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk jswBAS"
+              >
+                efficiency
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                cln_shift
+              </span>
+            </td>
+            <td>
+              <p>
+                Cleaning in shift
+              </p>
+            </td>
+            <td>
+              <span>
+                Time spent (in seconds) cleaning the machines during the last shift
+              </span>
+            </td>
+            <td>
+              <span>
+                2280
+              </span>
+            </td>
+            <td>
+              <span>
+                secs
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk CeRIr"
+              >
+                shift
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                shift_duration
+              </span>
+            </td>
+            <td>
+              <p>
+                Shift duration
+              </p>
+            </td>
+            <td>
+              <span>
+                Last shift duration in hours
+              </span>
+            </td>
+            <td>
+              <span>
+                8
+              </span>
+            </td>
+            <td>
+              <span>
+                hours
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk CeRIr"
+              >
+                shift
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                unexplained
+              </span>
+            </td>
+            <td>
+              <p>
+                Unexplained downtime
+              </p>
+            </td>
+            <td>
+              <span>
+                The downtime (in seconds) caused by undocumented reasons
+              </span>
+            </td>
+            <td>
+              <span>
+                180
+              </span>
+            </td>
+            <td>
+              <span>
+                secs
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk cYzARD"
+              >
+                downtime
+              </p>
+            </td>
+          </tr>
+          <tr
+            class="sc-hLseSp eKehDT"
+          >
+            <td>
+              <span>
+                mech_problems
+              </span>
+            </td>
+            <td>
+              <p>
+                Mechanical problems
+              </p>
+            </td>
+            <td>
+              <span>
+                The downtime (in seconds) caused by mechanical problems
+              </span>
+            </td>
+            <td>
+              <span>
+                1210
+              </span>
+            </td>
+            <td>
+              <span>
+                secs
+              </span>
+            </td>
+            <td>
+              <p
+                class="sc-eDDOjk cYzARD"
+              >
+                downtime
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
