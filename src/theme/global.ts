@@ -1,4 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
+import { Colors } from './colors';
 
 const GlobalStyles = createGlobalStyle`
   * {
@@ -12,6 +13,7 @@ const GlobalStyles = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
       Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: ${Colors.black};
   }
 
   img, picture, video, canvas, svg {
