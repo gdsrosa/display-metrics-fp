@@ -3,17 +3,17 @@
 exports[`Charts Container > should render charts with data that is passed 1`] = `
 <div>
   <div
-    class="sc-beqWNU colhZj"
+    class="sc-bgqQPU kOUxmS"
     data-testid="card"
   >
     <h3
-      class="sc-dmqGRC gvzgIr"
+      class="sc-ewnpUy kDYXBG"
     />
     <div
-      class="sc-gueXAH krMJNw"
+      class="sc-gTRrcP huiFUI"
     >
       <div
-        class="sc-hLseSp ilMZGS"
+        class="sc-fFGkvd pEWOf"
         data-testid="charts"
       />
     </div>

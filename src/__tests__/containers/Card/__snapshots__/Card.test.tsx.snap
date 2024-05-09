@@ -6,49 +6,49 @@ exports[`Card Container > should render cards properly 1`] = `
   "baseElement": <body>
     <div>
       <div
-        class="sc-hLseSp kKMqmD"
+        class="sc-fFGkvd ilCBXb"
       >
         <div
-          class="sc-beqWNU colhZj"
+          class="sc-bgqQPU kOUxmS"
           data-testid="card"
         >
           <h3
-            class="sc-dmqGRC gvzgIr"
+            class="sc-ewnpUy kDYXBG"
           >
             Efficiency
           </h3>
           <div
-            class="sc-gueXAH krMJNw"
+            class="sc-gTRrcP brAwhw"
           >
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Oee
               <br />
               <span
-                class="sc-jTrOVX ektjaj"
+                class="sc-iVCJzH fQGMqP"
               >
                 68%
               </span>
             </p>
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Speed loss
               <br />
               <span
-                class="sc-jTrOVX iImmsf"
+                class="sc-iVCJzH bgpiLz"
               >
                 -10.5
               </span>
             </p>
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Loss before pallets
               <br />
               <span
-                class="sc-jTrOVX iImmsf"
+                class="sc-iVCJzH bgpiLz"
               >
                 -268
               </span>
@@ -56,35 +56,35 @@ exports[`Card Container > should render cards properly 1`] = `
           </div>
         </div>
         <div
-          class="sc-beqWNU colhZj"
+          class="sc-bgqQPU kOUxmS"
           data-testid="card"
         >
           <h3
-            class="sc-dmqGRC gvzgIr"
+            class="sc-ewnpUy kDYXBG"
           >
             Downtime
           </h3>
           <div
-            class="sc-gueXAH krMJNw"
+            class="sc-gTRrcP brAwhw"
           >
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Unexplained downtime
               <br />
               <span
-                class="sc-jTrOVX iImmsf"
+                class="sc-iVCJzH bgpiLz"
               >
                 3 minutes
               </span>
             </p>
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Mechanical problems
               <br />
               <span
-                class="sc-jTrOVX iImmsf"
+                class="sc-iVCJzH bgpiLz"
               >
                 20 minutes
               </span>
@@ -92,35 +92,35 @@ exports[`Card Container > should render cards properly 1`] = `
           </div>
         </div>
         <div
-          class="sc-beqWNU colhZj"
+          class="sc-bgqQPU kOUxmS"
           data-testid="card"
         >
           <h3
-            class="sc-dmqGRC gvzgIr"
+            class="sc-ewnpUy kDYXBG"
           >
             Shift
           </h3>
           <div
-            class="sc-gueXAH krMJNw"
+            class="sc-gTRrcP brAwhw"
           >
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Cleaning in shift
               <br />
               <span
-                class="sc-jTrOVX ektjaj"
+                class="sc-iVCJzH fQGMqP"
               >
                 38 minutes
               </span>
             </p>
             <p
-              class="sc-eDDOjk keRhgZ"
+              class="sc-dicjmM iDTpwI"
             >
               Shift duration
               <br />
               <span
-                class="sc-jTrOVX ektjaj"
+                class="sc-iVCJzH fQGMqP"
               >
                 8 hours
               </span>
@@ -132,49 +132,49 @@ exports[`Card Container > should render cards properly 1`] = `
   </body>,
   "container": <div>
     <div
-      class="sc-hLseSp kKMqmD"
+      class="sc-fFGkvd ilCBXb"
     >
       <div
-        class="sc-beqWNU colhZj"
+        class="sc-bgqQPU kOUxmS"
         data-testid="card"
       >
         <h3
-          class="sc-dmqGRC gvzgIr"
+          class="sc-ewnpUy kDYXBG"
         >
           Efficiency
         </h3>
         <div
-          class="sc-gueXAH krMJNw"
+          class="sc-gTRrcP brAwhw"
         >
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Oee
             <br />
             <span
-              class="sc-jTrOVX ektjaj"
+              class="sc-iVCJzH fQGMqP"
             >
               68%
             </span>
           </p>
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Speed loss
             <br />
             <span
-              class="sc-jTrOVX iImmsf"
+              class="sc-iVCJzH bgpiLz"
             >
               -10.5
             </span>
           </p>
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Loss before pallets
             <br />
             <span
-              class="sc-jTrOVX iImmsf"
+              class="sc-iVCJzH bgpiLz"
             >
               -268
             </span>
@@ -182,35 +182,35 @@ exports[`Card Container > should render cards properly 1`] = `
         </div>
       </div>
       <div
-        class="sc-beqWNU colhZj"
+        class="sc-bgqQPU kOUxmS"
         data-testid="card"
       >
         <h3
-          class="sc-dmqGRC gvzgIr"
+          class="sc-ewnpUy kDYXBG"
         >
           Downtime
         </h3>
         <div
-          class="sc-gueXAH krMJNw"
+          class="sc-gTRrcP brAwhw"
         >
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Unexplained downtime
             <br />
             <span
-              class="sc-jTrOVX iImmsf"
+              class="sc-iVCJzH bgpiLz"
             >
               3 minutes
             </span>
           </p>
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Mechanical problems
             <br />
             <span
-              class="sc-jTrOVX iImmsf"
+              class="sc-iVCJzH bgpiLz"
             >
               20 minutes
             </span>
@@ -218,35 +218,35 @@ exports[`Card Container > should render cards properly 1`] = `
         </div>
       </div>
       <div
-        class="sc-beqWNU colhZj"
+        class="sc-bgqQPU kOUxmS"
         data-testid="card"
       >
         <h3
-          class="sc-dmqGRC gvzgIr"
+          class="sc-ewnpUy kDYXBG"
         >
           Shift
         </h3>
         <div
-          class="sc-gueXAH krMJNw"
+          class="sc-gTRrcP brAwhw"
         >
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Cleaning in shift
             <br />
             <span
-              class="sc-jTrOVX ektjaj"
+              class="sc-iVCJzH fQGMqP"
             >
               38 minutes
             </span>
           </p>
           <p
-            class="sc-eDDOjk keRhgZ"
+            class="sc-dicjmM iDTpwI"
           >
             Shift duration
             <br />
             <span
-              class="sc-jTrOVX ektjaj"
+              class="sc-iVCJzH fQGMqP"
             >
               8 hours
             </span>

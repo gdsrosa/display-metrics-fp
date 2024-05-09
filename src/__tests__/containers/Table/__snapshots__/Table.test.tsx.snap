@@ -9,49 +9,49 @@ exports[`Table Container > should render table with data that is passed 1`] = `
         data-testid="table"
       >
         <table
-          class="sc-beqWNU iZtAyf"
+          class="sc-bgqQPU kRKGxB"
         >
           <thead
-            class="sc-gueXAH dzrjdU"
+            class="sc-gTRrcP kdmdkm"
           >
             <tr>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   ID
                 </p>
               </th>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   Label
                 </p>
               </th>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   Description
                 </p>
               </th>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   Value
                 </p>
               </th>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   Type
                 </p>
               </th>
               <th
-                class="sc-dmqGRC bUUbJH"
+                class="sc-ewnpUy ejCXuB"
               >
                 <p>
                   Category
@@ -61,7 +61,7 @@ exports[`Table Container > should render table with data that is passed 1`] = `
           </thead>
           <tbody>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -90,14 +90,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk jswBAS"
+                  class="sc-dicjmM iWmZet"
                 >
                   efficiency
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -126,14 +126,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk jswBAS"
+                  class="sc-dicjmM iWmZet"
                 >
                   efficiency
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -162,14 +162,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk jswBAS"
+                  class="sc-dicjmM iWmZet"
                 >
                   efficiency
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -198,14 +198,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk CeRIr"
+                  class="sc-dicjmM xPdGU"
                 >
                   shift
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -234,14 +234,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk CeRIr"
+                  class="sc-dicjmM xPdGU"
                 >
                   shift
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -270,14 +270,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk cYzARD"
+                  class="sc-dicjmM kCxwcg"
                 >
                   downtime
                 </p>
               </td>
             </tr>
             <tr
-              class="sc-hLseSp eKehDT"
+              class="sc-fFGkvd jqhJwo"
             >
               <td>
                 <span>
@@ -306,7 +306,7 @@ exports[`Table Container > should render table with data that is passed 1`] = `
               </td>
               <td>
                 <p
-                  class="sc-eDDOjk cYzARD"
+                  class="sc-dicjmM kCxwcg"
                 >
                   downtime
                 </p>
@@ -322,49 +322,49 @@ exports[`Table Container > should render table with data that is passed 1`] = `
       data-testid="table"
     >
       <table
-        class="sc-beqWNU iZtAyf"
+        class="sc-bgqQPU kRKGxB"
       >
         <thead
-          class="sc-gueXAH dzrjdU"
+          class="sc-gTRrcP kdmdkm"
         >
           <tr>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 ID
               </p>
             </th>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 Label
               </p>
             </th>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 Description
               </p>
             </th>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 Value
               </p>
             </th>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 Type
               </p>
             </th>
             <th
-              class="sc-dmqGRC bUUbJH"
+              class="sc-ewnpUy ejCXuB"
             >
               <p>
                 Category
@@ -374,7 +374,7 @@ exports[`Table Container > should render table with data that is passed 1`] = `
         </thead>
         <tbody>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -403,14 +403,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk jswBAS"
+                class="sc-dicjmM iWmZet"
               >
                 efficiency
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -439,14 +439,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk jswBAS"
+                class="sc-dicjmM iWmZet"
               >
                 efficiency
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -475,14 +475,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk jswBAS"
+                class="sc-dicjmM iWmZet"
               >
                 efficiency
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -511,14 +511,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk CeRIr"
+                class="sc-dicjmM xPdGU"
               >
                 shift
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -547,14 +547,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk CeRIr"
+                class="sc-dicjmM xPdGU"
               >
                 shift
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -583,14 +583,14 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk cYzARD"
+                class="sc-dicjmM kCxwcg"
               >
                 downtime
               </p>
             </td>
           </tr>
           <tr
-            class="sc-hLseSp eKehDT"
+            class="sc-fFGkvd jqhJwo"
           >
             <td>
               <span>
@@ -619,7 +619,7 @@ exports[`Table Container > should render table with data that is passed 1`] = `
             </td>
             <td>
               <p
-                class="sc-eDDOjk cYzARD"
+                class="sc-dicjmM kCxwcg"
               >
                 downtime
               </p>
